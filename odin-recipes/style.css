@@ -1,0 +1,18 @@
+body{
+    font-size:24px;
+    background-color:burlywood;
+    color: rgb(158, 11, 11);
+    font-family:'Courier New', Courier, monospace
+}
+a:visited {
+    color: rgb(158, 11, 11);
+}
+
+a:hover, a:active {
+    color: rgb(158, 11, 11);
+}
+img {
+    height:auto;
+    width:250px;
+    border-radius:100%;
+}
